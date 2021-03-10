@@ -1,0 +1,9 @@
+main: de.musterbukkit.replaysystem.main.Main
+name: ReplayAPIPublic
+version: 1.0.0
+author: Mustermaster1402
+description: This Plugin is by Mustermaster1402 all rights reserved.
+website: http://www.Itsminecraft.de
+
+commands:
+  rpdebug:
